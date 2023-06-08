@@ -29,4 +29,4 @@ api.giphy.com/v1/gifs/search?api_key=z7ZuNe0lFi48cNvlOU1bldOAp2cMaLhQ
 api.giphy.com/v1/gifs/search?api_key=z7ZuNe0lFi48cNvlOU1bldOAp2cMaLhQ&q=valorant
 &q=valorant - parametro de busqueda 
 
-# Custom Hook
+#  git checkout -- .  retorna los cambios del ultimo commit 
